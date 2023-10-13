@@ -1,0 +1,6 @@
+*.txt
+*.jsonl
+.vscode/
+.venv/
+venv/
+__pycache__/
